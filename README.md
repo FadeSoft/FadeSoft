@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... softwarefade@gmail.com
+- My LinkedIn Profile: https://www.linkedin.com/in/samed-b-710a301bb/
 
 <!---
 FadeSoft/FadeSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
